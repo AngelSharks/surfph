@@ -1,2 +1,2 @@
 # surfph
-Real time Surf PH to measure Oceanacidtification from a Smart Surfboard or water craft.
+Real time Surf PH to measure Ocean Acidtification from a Smart Surfboard or water craft.
